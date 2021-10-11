@@ -39,5 +39,18 @@ Using PySpark, Pandas, or SQL, you’ll determine if there is any bias towards r
 - The data is filtered to create a DataFrame or table where there isn’t a Vine review 
 - The total number of reviews, the number of 5-star reviews, and the percentage 5-star reviews are calculated for all Vine and non-Vine reviews 
 
-
 <p align="center"><img class="centerImage" src="https://github.com/dalejandri/Amazon_Vine_Analysis/blob/main/Resources/3.PNG" /></p>
+
+## Deliverable 3
+
+How many Vine reviews and non-Vine reviews were there?
+How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+
+Total Reviews: 47808
+Total 5 Star Reviews: 22195
+Total 5 Star Paid Reviews: 440
+Total 5 Star Unpaid Reviews: 21755
+Percent of all 5 star reviews: 46.43%
+Percent of paid 5 star reviews: 42.64%
+Percent of unpaid 5 star reviews: 46.51%
