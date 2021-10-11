@@ -48,9 +48,15 @@ How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 Total Reviews: 47808
+
 Total 5 Star Reviews: 22195
+
 Total 5 Star Paid Reviews: 440
+
 Total 5 Star Unpaid Reviews: 21755
+
 Percent of all 5 star reviews: 46.43%
+
 Percent of paid 5 star reviews: 42.64%
+
 Percent of unpaid 5 star reviews: 46.51%
